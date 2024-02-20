@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Underwater Coral segmentation with Tracking**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sujithkumar2003/](https://github.com/sujithkumar2003/)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/sujithkumar2003/)
 
 - 📫 How to reach me **krsujithkumar1994@gmail.com**
 
