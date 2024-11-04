@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kamireddi Rushyendra Sujith Kumar</h1>
 <h3 align="center">A passionate Data scientist</h3>
 
-- 🔭 I’m currently working on **Underwater Coral segmentation with Tracking**
+- 🔭 I’m currently working on **Digital Twin with Machine Learning Integration**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/sujithkumar2003/)
 
